@@ -29,7 +29,7 @@ except Exception:
 
 
 DEBUG        = False
-EMAIL_FORMAT = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+EMAIL_FORMAT =jessicanah3@gmail.com r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 
 __version__ = "1.61"
 
